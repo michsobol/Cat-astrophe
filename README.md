@@ -7,6 +7,7 @@
 #### Shift to sprint
 #### Hold M to pick up objects
 #### Release M to drop/throw objects
+#### ESC to pause game
 -------------------------------------------------------------------------
 ## OBJECTIVE:
 #### Clear the room of objects before the time runs out

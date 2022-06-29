@@ -12,6 +12,7 @@
 ## OBJECTIVE:
 #### Clear the room of objects before the time runs out
 #### Get as high of a score as possible within the time limit
+#### The higher the score, the more the pawprint at the end of the level fills up
 -------------------------------------------------------------------------
 ## CREDITS:
 ### Created By: Michelle Sobolewski

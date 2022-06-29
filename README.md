@@ -5,8 +5,8 @@
 #### WASD for movement
 #### Space to jump
 #### Shift to sprint
-#### Hold A to pick up objects
-#### Release A to drop/throw objects
+#### Hold M to pick up objects
+#### Release M to drop/throw objects
 -------------------------------------------------------------------------
 ## OBJECTIVE:
 #### Clear the room of objects before the time runs out

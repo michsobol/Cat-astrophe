@@ -1,4 +1,4 @@
-# Cat-astrophe
+![Title](https://cdn.discordapp.com/attachments/842832211991986207/991533236687753286/Catastrophe_title.png)
 #### A silly little game about a cat destroying a house (Made for ITCS 4231)
 -------------------------------------------------------------------------
 ![Screenshot of Level One](https://media.discordapp.net/attachments/842832211991986207/991411119447081010/unknown.png)

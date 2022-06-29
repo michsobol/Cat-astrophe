@@ -1,6 +1,8 @@
 # Cat-astrophe
 #### A silly little game about a cat destroying a house (Made for ITCS 4231)
 -------------------------------------------------------------------------
+![Screenshot of Level One](https://media.discordapp.net/attachments/842832211991986207/991411119447081010/unknown.png)
+-------------------------------------------------------------------------
 ## CONTROLS:
 #### WASD for movement
 #### Space to jump
